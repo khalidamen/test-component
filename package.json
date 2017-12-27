@@ -1,0 +1,19 @@
+{
+  "name": "test-component",
+  "version": "1.0.0",
+  "description": "Test Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidamen/test-component.git"
+  },
+  "author": "Khalid Amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidamen/test-component/issues"
+  },
+  "homepage": "https://github.com/khalidamen/test-component#readme"
+}
