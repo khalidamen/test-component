@@ -1,5 +1,5 @@
 {
-  "name": "test-component",
+  "name": "@moby/test-component",
   "version": "1.0.0",
   "description": "Test Component",
   "main": "index.js",
